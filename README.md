@@ -26,11 +26,9 @@ Allows you to add, view, complete, and delete tasks via a command-line interface
 
 Future Improvements:
 
-1. Add saving/loading tasks to/from a file
-
-2. Improve input validation and error handling
-
-3. Add a graphical user interface (GUI)
+- Add saving/loading tasks to/from a file
+- Improve input validation and error handling
+- Add a graphical user interface (GUI)
 
 Author
 Anum Aamir
