@@ -18,17 +18,19 @@ Allows you to add, view, complete, and delete tasks via a command-line interface
    ```bash
    cd path/to/JavaTaskManager
 3. Compile all Java files:
+    ```bash
     javac *.java
-4. Run the program:
+5. Run the program:
+     ```bash 
     java Main
 
 Future Improvements:
 
-Add saving/loading tasks to/from a file
+1. Add saving/loading tasks to/from a file
 
-Improve input validation and error handling
+2. Improve input validation and error handling
 
-Add a graphical user interface (GUI)
+3. Add a graphical user interface (GUI)
 
 Author
 Anum Aamir
